@@ -1,5 +1,3 @@
 # Dockerization
 
-Cloud Computing - Shiraz University
-
-HW1
+Cloud Computing
